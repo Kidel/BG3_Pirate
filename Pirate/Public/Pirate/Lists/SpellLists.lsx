@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="5" build="0"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Parrot Familiar"/>
+                    <attribute id="Spells" type="LSString" value="Target_SummonParrot_Familiar_Pirate"/> TODO add hat in inventory
+                    <attribute id="UUID" type="guid" value="1fff6643-4ad9-4eca-a851-9cd37fba9516"/>
+                </node>
+
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Pirate Cantrips"/>
+                    <attribute id="Spells" type="LSString" value="Target_ViciousMockery;Target_Friends;Projectile_PoisonSpray"/>
+                    <attribute id="UUID" type="guid" value="f6e8c1fb-a13f-4990-8eb0-1bd3cab2f8be"/>
+                </node>
+
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Pirate Spells lv1"/>
+                    <attribute id="Spells" type="LSString" value="Target_Command_Container;Target_CompelledDuel;Target_DissonantWhispers;Target_FogCloud;Target_HuntersMark;Target_HideousLaughter;Target_CreateDestroyWater;Target_Grease;Target_FogCloud"/>
+                    <attribute id="UUID" type="guid" value="d2bf4d57-6a34-41e9-a9ae-e5fdc2fea0b8"/>
+                </node>
+
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Pirate Spells lv2"/>
+                    <attribute id="Spells" type="LSString" value="Target_CloudOfDaggers;Target_Web;Target_Knock;Target_ArcaneLock;Target_StinkingCloud_LowerPirate"/>
+                    <attribute id="UUID" type="guid" value="b9455388-340a-45f3-a3d3-060147f2e58b"/>
+                </node>
+
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="All Spells"/>
+                    <attribute id="Spells" type="LSString" value="Zone_DrakeBreath_Pirate;Zone_DrakeBreath_Pirate_Slot"/>
+                    <attribute id="UUID" type="guid" value="18993096-85e5-4670-b4f7-94f63b9b3605"/>
+                </node>
+
+			</children>
+        </node>
+    </region>
+</save>

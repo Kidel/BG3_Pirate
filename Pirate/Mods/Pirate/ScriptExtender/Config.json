@@ -1,0 +1,8 @@
+{
+    "RequiredVersion": 1,
+    "ModTable": "Pirate",
+    "FeatureFlags": [
+        "Osiris",
+        "Lua"
+    ]
+}
