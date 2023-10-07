@@ -6,15 +6,21 @@
             <children>
 
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Parrot Familiar"/>
+                    <attribute id="Comment" type="LSString" value="Pirate Parrot Familiar"/>
                     <attribute id="Spells" type="LSString" value="Target_SummonParrot_Familiar_Pirate"/>
                     <attribute id="UUID" type="guid" value="1fff6643-4ad9-4eca-a851-9cd37fba9516"/>
                 </node>
 
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Blade Flourish spells"/>
+                    <attribute id="Comment" type="LSString" value="Pirate Flourish spells"/>
                     <attribute id="Spells" type="LSString" value="Zone_BladeFlourish_Slashing_Pirate;Projectile_BladeFlourish_Slashing_Pirate"/>
                     <attribute id="UUID" type="guid" value="26c253a1-bd7c-4bb0-b166-fff9f2b250b1"/>
+                </node>
+
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Pirate Manouvre spells"/>
+                    <attribute id="Spells" type="LSString" value="Target_DisarmingAttack_Pirate"/>
+                    <attribute id="UUID" type="guid" value="36c253a1-bd7c-4bb0-b166-fff9f2b250b1"/>
                 </node>
 
                 <node id="SpellList">
@@ -25,19 +31,19 @@
 
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Pirate Spells lv1"/>
-                    <attribute id="Spells" type="LSString" value="Target_Command_Container;Target_CompelledDuel;Target_DissonantWhispers;Target_FogCloud;Target_HuntersMark;Target_HideousLaughter;Target_CreateDestroyWater;Target_Grease;Target_FogCloud"/>
+                    <attribute id="Spells" type="LSString" value="Shout_ExpeditiousRetreat;Target_Command_Container;Target_CompelledDuel;Target_DissonantWhispers;Target_FogCloud;Target_HuntersMark;Target_HideousLaughter;Target_CreateDestroyWater;Target_Grease;Target_FogCloud"/>
                     <attribute id="UUID" type="guid" value="d2bf4d57-6a34-41e9-a9ae-e5fdc2fea0b8"/>
                 </node>
 
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Pirate Spells lv2"/>
-                    <attribute id="Spells" type="LSString" value="Zone_GustOfWind;Target_PhantasmalForce;Target_CloudOfDaggers;Target_Web;Target_Knock;Target_ArcaneLock;Target_StinkingCloud_LowerPirate;Target_Command_Container;Target_CompelledDuel;Target_DissonantWhispers;Target_FogCloud;Target_HuntersMark;Target_HideousLaughter;Target_CreateDestroyWater;Target_Grease;Target_FogCloud"/>
+                    <attribute id="Spells" type="LSString" value="Zone_GustOfWind;Target_PhantasmalForce;Target_CloudOfDaggers;Target_Web;Target_Knock;Target_ArcaneLock;Target_StinkingCloud_LowerPirate;Shout_ExpeditiousRetreat;Target_Command_Container;Target_CompelledDuel;Target_DissonantWhispers;Target_FogCloud;Target_HuntersMark;Target_HideousLaughter;Target_CreateDestroyWater;Target_Grease;Target_FogCloud"/>
                     <attribute id="UUID" type="guid" value="b9455388-340a-45f3-a3d3-060147f2e58b"/>
                 </node>
 
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="All Spells"/>
-                    <attribute id="Spells" type="LSString" value="Zone_GustOfWind;Target_PhantasmalForce;Target_CloudOfDaggers;Target_Web;Target_Knock;Target_ArcaneLock;Target_StinkingCloud_LowerPirate;Target_Command_Container;Target_CompelledDuel;Target_DissonantWhispers;Target_FogCloud;Target_HuntersMark;Target_HideousLaughter;Target_CreateDestroyWater;Target_Grease;Target_FogCloud"/>
+                    <attribute id="Comment" type="LSString" value="All Pirate Spells"/>
+                    <attribute id="Spells" type="LSString" value="Zone_GustOfWind;Target_PhantasmalForce;Target_CloudOfDaggers;Target_Web;Target_Knock;Target_ArcaneLock;Target_StinkingCloud_LowerPirate;Shout_ExpeditiousRetreat;Target_Command_Container;Target_CompelledDuel;Target_DissonantWhispers;Target_FogCloud;Target_HuntersMark;Target_HideousLaughter;Target_CreateDestroyWater;Target_Grease;Target_FogCloud"/>
                     <attribute id="UUID" type="guid" value="18993096-85e5-4670-b4f7-94f63b9b3605"/>
                 </node>
 

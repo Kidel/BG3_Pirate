@@ -55,3 +55,13 @@ type "SpellData"
 data "SpellType" "Target"
 using "Target_ViciousMockery"
 data "UseCosts" "ActionPoint:1"
+
+
+new entry "Target_DisarmingAttack_Pirate"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_DisarmingAttack"
+data "Cooldown" "OncePerCombat"
+data "HitCosts" ""
+data "SpellSuccess" "IF(not SavingThrow(Ability.Strength, 14)):ApplyStatus(DISARM,100,0);DealDamage(MainMeleeWeapon + ProficiencyBonus, MainMeleeWeaponDamageType); ExecuteWeaponFunctors(MainHand)"
+data "TooltipDamageList" "DealDamage(MainMeleeWeapon + ProficiencyBonus, MainWeaponDamageType)"

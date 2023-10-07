@@ -1,0 +1,7 @@
+new entry "NaturalExplorer_PirateSea"
+type "PassiveData"
+data "DisplayName" "h78cc920agaf1eg42b9gbffegd76ea0593fc8;1"
+data "Description" "h1e2c416cg02f8g4235g8af0g4988ebc89759;1"
+data "Icon" "PassiveFeature_NaturalExplorer_UrbanTracker"
+data "Properties" "Highlighted"
+data "Boosts" "ProficiencyBonus(Skill,Survival);ProficiencyBonus(Skill,Deception)"

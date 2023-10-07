@@ -9,4 +9,8 @@
 	<content contentuid="h0cb6885ag5151g4092gb90ag2261a40eab0a" version="1">Parrot</content>
 	<content contentuid="h00f43cb5gb4bcg4c45g849eg53013f07bf0f" version="1">Summon Parrot</content>
 	<content contentuid="h06a5d5caga541g4e80g98f0gce6f2bcdc01e" version="3">Summon your loyal parrot that can &lt;LSTag Type="Spell" Tooltip="Target_ViciousMockery_ParrotFamiliar"&gt;insult&lt;/LSTag&gt; your enemies.</content>
+
+	<content contentuid="h78cc920agaf1eg42b9gbffegd76ea0593fc8" version="1">Wasteland Wanderer: Sea</content>
+	<content contentuid="h1e2c416cg02f8g4235g8af0g4988ebc89759" version="1">You have spent endless days surviving in the sea, you gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Survival"&gt;Survival&lt;/LSTag&gt; and &lt;LSTag Tooltip="Deception"&gt;Deception&lt;/LSTag&gt;.</content>
+
 </contentList>
