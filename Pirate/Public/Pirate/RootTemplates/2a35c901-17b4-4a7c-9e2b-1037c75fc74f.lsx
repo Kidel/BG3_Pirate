@@ -11,7 +11,7 @@
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="74e077a8-e8a5-42d4-9168-00cda3a4a252" />
 					<attribute id="VisualTemplate" type="FixedString" value="" />
-					<attribute id="DisplayName" type="TranslatedString" handle="TODO" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h0cb6885ag5151g4092gb90ag2261a40eab0a" version="1" />
 					<attribute id="Icon" type="FixedString" value="bd46895c-db23-e4a5-b848-46d511663f57-_(Icon_Bird_Bluejay)" />
 					<attribute id="Stats" type="FixedString" value="Familiar_Raven" />
 					<attribute id="CanClimbLadders" type="bool" value="True" />

@@ -7,8 +7,14 @@
 
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Parrot Familiar"/>
-                    <attribute id="Spells" type="LSString" value="Target_SummonParrot_Familiar_Pirate"/> TODO add hat in inventory
+                    <attribute id="Spells" type="LSString" value="Target_SummonParrot_Familiar_Pirate"/>
                     <attribute id="UUID" type="guid" value="1fff6643-4ad9-4eca-a851-9cd37fba9516"/>
+                </node>
+
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Blade Flourish spells"/>
+                    <attribute id="Spells" type="LSString" value="Zone_BladeFlourish_Slashing;Target_BladeFlourish_Defensive;Projectile_BladeFlourish_Defensive;Target_BladeFlourish_Mobile;Projectile_BladeFlourish_Mobile;Projectile_BladeFlourish_Slashing"/>
+                    <attribute id="UUID" type="guid" value="26c253a1-bd7c-4bb0-b166-fff9f2b250b1"/>
                 </node>
 
                 <node id="SpellList">

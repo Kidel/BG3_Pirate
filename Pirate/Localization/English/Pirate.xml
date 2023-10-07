@@ -4,6 +4,9 @@
 	<content contentuid="h777777777777777777777777777777777778" version="1">Debug [1]</content>
 	
 	<content contentuid="hc467b778g88bag4272g98a5g73e9dcce1a2e" version="1">Pirate</content>
-	<content contentuid="h9cf6d938gda55g4bd1g8914gef41bc42cdd7" version="1"></content>
+	<content contentuid="h9cf6d938gda55g4bd1g8914gef41bc42cdd7" version="1">You spent your youth under the sway of a dread pirate, a ruthless cutthroat who taught you how to survive in a world of sharks and savages.  Now, you've become a feared pirate in your own right.  You have indulged in larceny on the high seas and sent more than one deserving soul to a briny grave.  Bloodshed and the pursuit of treasure are no strangers to you, and you've garnered a somewhat unsavory reputation in many a port town. </content>
 
+	<content contentuid="h0cb6885ag5151g4092gb90ag2261a40eab0a" version="1">Parrot</content>
+	<content contentuid="h00f43cb5gb4bcg4c45g849eg53013f07bf0f" version="1">Summon Parrot</content>
+	<content contentuid="h06a5d5caga541g4e80g98f0gce6f2bcdc01e" version="3">Summon your loyal parrot that can &lt;LSTag Type="Spell" Tooltip="Target_ViciousMockery_ParrotFamiliar"&gt;insult&lt;/LSTag&gt; your enemies.</content>
 </contentList>
