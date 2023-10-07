@@ -66,11 +66,22 @@
                     <attribute id="UUID" type="guid" value="a8d70dcd-7f2c-4916-96ef-6145c52f361e"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="Pirate"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="PassivesAdded" type="LSString" value="FastHands"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(b9455388-340a-45f3-a3d3-060147f2e58b,1,0,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="29098177-eb96-4372-a992-6ce5e985d515"/>
+                    <attribute id="UUID" type="guid" value="9ba4ec1a-3871-44c5-93d3-cd6872a1207e"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="Name" type="LSString" value="Pirate"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1)"/>
                     <attribute id="Selectors" type="LSString" value="SelectSpells(b9455388-340a-45f3-a3d3-060147f2e58b,1,0,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="29098177-eb96-4372-a992-6ce5e985d515"/>
