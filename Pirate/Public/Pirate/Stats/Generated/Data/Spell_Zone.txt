@@ -1,0 +1,6 @@
+new entry "Zone_BladeFlourish_Slashing_Pirate"
+type "SpellData"
+data "SpellType" "Zone"
+using "Zone_BladeFlourish_Slashing"
+data "SpellSuccess" "DealDamage(MainMeleeWeapon, MainWeaponDamageType);GROUND:ExecuteWeaponFunctors(MainHand)"
+data "HitCosts" ""

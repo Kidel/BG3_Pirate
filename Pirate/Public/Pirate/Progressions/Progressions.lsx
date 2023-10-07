@@ -50,7 +50,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1)"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(d2bf4d57-6a34-41e9-a9ae-e5fdc2fea0b8,1,0,,,,AlwaysPrepared);AddSpells(26c253a1-bd7c-4bb0-b166-fff9f2b250b1)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(d2bf4d57-6a34-41e9-a9ae-e5fdc2fea0b8,1,0,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="29098177-eb96-4372-a992-6ce5e985d515"/>
                     <attribute id="UUID" type="guid" value="749e2d13-eff1-425c-8c57-4ecb5fe15729"/>
                 </node>
@@ -61,7 +61,7 @@
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel2;ImprovedCritical"/>
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);ActionResource(SpellSlot,2,2)"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(b9455388-340a-45f3-a3d3-060147f2e58b,2,0,,,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(b9455388-340a-45f3-a3d3-060147f2e58b,2,0,,,,AlwaysPrepared);AddSpells(26c253a1-bd7c-4bb0-b166-fff9f2b250b1)"/>
                     <attribute id="TableUUID" type="guid" value="29098177-eb96-4372-a992-6ce5e985d515"/>
                     <attribute id="UUID" type="guid" value="a8d70dcd-7f2c-4916-96ef-6145c52f361e"/>
                 </node>

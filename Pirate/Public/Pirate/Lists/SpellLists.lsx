@@ -13,7 +13,7 @@
 
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Blade Flourish spells"/>
-                    <attribute id="Spells" type="LSString" value="Zone_BladeFlourish_Slashing;Target_BladeFlourish_Defensive;Projectile_BladeFlourish_Defensive;Target_BladeFlourish_Mobile;Projectile_BladeFlourish_Mobile;Projectile_BladeFlourish_Slashing"/>
+                    <attribute id="Spells" type="LSString" value="Zone_BladeFlourish_Slashing_Pirate;Projectile_BladeFlourish_Slashing_Pirate"/>
                     <attribute id="UUID" type="guid" value="26c253a1-bd7c-4bb0-b166-fff9f2b250b1"/>
                 </node>
 
