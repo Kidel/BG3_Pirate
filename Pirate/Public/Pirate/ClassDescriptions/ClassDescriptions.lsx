@@ -6,8 +6,8 @@
             <children>
                 <node id="ClassDescription">
                     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
-                    <attribute id="Description" type="TranslatedString" handle="h5483d543gba70g4efdga2a8g77432c51cdcb" version="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="ha4bc6221ga255g47afg8b58g8e9a858c140a" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="h9cf6d938gda55g4bd1g8914gef41bc42cdd7" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc467b778g88bag4272g98a5g73e9dcce1a2e" version="1"/>
                     <attribute id="MulticlassSpellcasterModifier" type="double" value="0.34000000000000002"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="Name" type="FixedString" value="Pirate"/>
