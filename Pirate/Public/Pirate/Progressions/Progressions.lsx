@@ -55,6 +55,16 @@
                     <attribute id="UUID" type="guid" value="749e2d13-eff1-425c-8c57-4ecb5fe15729"/>
                 </node>
                 <node id="Progression">
+                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="Name" type="LSString" value="Pirate"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(26c253a1-bd7c-4bb0-b166-fff9f2b250b1)"/>
+                    <attribute id="TableUUID" type="guid" value="29098177-eb96-4372-a992-6ce5e985d515"/>
+                    <attribute id="UUID" type="guid" value="30b1d7f2-fb48-409c-9b1b-439dc4bcbb3c"/>
+                </node>
+                <node id="Progression">
                     <attribute id="Level" type="uint8" value="7"/>
                     <attribute id="Name" type="LSString" value="Pirate"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
@@ -81,8 +91,8 @@
                     <attribute id="Name" type="LSString" value="Pirate"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1)"/>
+                    <attribute id="PassivesAdded" type="LSString" value="NaturalExplorer_PirateSea"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1);ProficiencyBonus(Skill,Survival);ProficiencyBonus(Skill,Deception)"/>
                     <attribute id="Selectors" type="LSString" value="SelectSpells(b9455388-340a-45f3-a3d3-060147f2e58b,1,0,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="29098177-eb96-4372-a992-6ce5e985d515"/>
                     <attribute id="UUID" type="guid" value="9ba4ec1a-3871-44c5-93d3-cd6872a1207e"/>
@@ -90,8 +100,8 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="11"/>
                     <attribute id="Name" type="LSString" value="Pirate"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value="NaturalExplorer_PirateSea"/>
                     <attribute id="Selectors" type="LSString" value="SelectSpells(b9455388-340a-45f3-a3d3-060147f2e58b,1,0,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="29098177-eb96-4372-a992-6ce5e985d515"/>
                     <attribute id="UUID" type="guid" value="df83e5b0-4fd1-4852-9083-c5edb9ba476f"/>
