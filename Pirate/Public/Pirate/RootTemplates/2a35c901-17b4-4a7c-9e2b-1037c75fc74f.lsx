@@ -15,8 +15,9 @@
 					<attribute id="DisplayName" type="TranslatedString" handle="h0cb6885ag5151g4092gb90ag2261a40eab0a" version="1" />
 					<attribute id="Icon" type="FixedString" value="bd46895c-db23-e4a5-b848-46d511663f57-_(Icon_Bird_Bluejay)" />
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Bird_Bluejay" />
-					<attribute id="Stats" type="FixedString" value="Familiar_Raven" />
+					<attribute id="Stats" type="FixedString" value="Familiar_PirateParrot" />
 					<attribute id="CanClimbLadders" type="bool" value="True" />
+					<attribute id="LevelOverride" type="int32" value="3" />
 					<attribute id="DeathEffect" type="guid" value="bc26118a-6fab-4aee-76a5-0bd9b2967557" />
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceNone" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="bd46895c-db23-e4a5-b848-46d511663f57" />
