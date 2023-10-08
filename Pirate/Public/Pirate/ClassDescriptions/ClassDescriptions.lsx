@@ -15,7 +15,7 @@
                     <attribute id="PrimaryAbility" type="uint8" value="2"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="29098177-eb96-4372-a992-6ce5e985d515"/>
                     <attribute id="SoundClassType" type="FixedString" value="Rogue"/>
-                    <attribute id="SpellCastingAbility" type="uint8" value="4"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="6"/>
                     <attribute id="UUID" type="guid" value="d3fa1ed9-353e-45ab-af10-88ee57cec86c"/>
                     <attribute id="SpellList" type="guid" value="18993096-85e5-4670-b4f7-94f63b9b3605"/>
                 </node>
