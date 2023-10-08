@@ -102,9 +102,94 @@
                     <attribute id="Name" type="LSString" value="Pirate"/>
                     <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="Selectors" type="LSString" value="SelectSpells(b9455388-340a-45f3-a3d3-060147f2e58b,1,0,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="29098177-eb96-4372-a992-6ce5e985d515"/>
                     <attribute id="UUID" type="guid" value="df83e5b0-4fd1-4852-9083-c5edb9ba476f"/>
+                </node>
+
+
+                13-20
+
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="13"/>
+                    <attribute id="Name" type="LSString" value="Pirate"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,3)"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_BottleOfRum;UnlockedSpellSlotLevel3"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(33455388-340a-45f3-a3d3-060147f2e58b,1,0,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="29098177-eb96-4372-a992-6ce5e985d515"/>
+                    <attribute id="UUID" type="guid" value="1383e5b0-4fd1-4852-9083-c5edb9ba476f"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="14"/>
+                    <attribute id="Name" type="LSString" value="Pirate"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(33455388-340a-45f3-a3d3-060147f2e58b,1,0,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="29098177-eb96-4372-a992-6ce5e985d515"/>
+                    <attribute id="UUID" type="guid" value="1483e5b0-4fd1-4852-9083-c5edb9ba476f"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="15"/>
+                    <attribute id="Name" type="LSString" value="Pirate"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="29098177-eb96-4372-a992-6ce5e985d515"/>
+                    <attribute id="UUID" type="guid" value="1583e5b0-4fd1-4852-9083-c5edb9ba476f"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="16"/>
+                    <attribute id="Name" type="LSString" value="Pirate"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,3)"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(33455388-340a-45f3-a3d3-060147f2e58b,1,0,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="29098177-eb96-4372-a992-6ce5e985d515"/>
+                    <attribute id="UUID" type="guid" value="1683e5b0-4fd1-4852-9083-c5edb9ba476f"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="17"/>
+                    <attribute id="Name" type="LSString" value="Pirate"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(2fff6643-4ad9-4eca-a851-9cd37fba9516,Treasure,,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="29098177-eb96-4372-a992-6ce5e985d515"/>
+                    <attribute id="UUID" type="guid" value="1783e5b0-4fd1-4852-9083-c5edb9ba476f"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="18"/>
+                    <attribute id="Name" type="LSString" value="Pirate"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="29098177-eb96-4372-a992-6ce5e985d515"/>
+                    <attribute id="UUID" type="guid" value="1883e5b0-4fd1-4852-9083-c5edb9ba476f"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="19"/>
+                    <attribute id="Name" type="LSString" value="Pirate"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4)"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel4"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(44455388-340a-45f3-a3d3-060147f2e58b,1,0,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="29098177-eb96-4372-a992-6ce5e985d515"/>
+                    <attribute id="UUID" type="guid" value="1983e5b0-4fd1-4852-9083-c5edb9ba476f"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="20"/>
+                    <attribute id="Name" type="LSString" value="Pirate"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(44455388-340a-45f3-a3d3-060147f2e58b,1,0,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="29098177-eb96-4372-a992-6ce5e985d515"/>
+                    <attribute id="UUID" type="guid" value="2083e5b0-4fd1-4852-9083-c5edb9ba476f"/>
                 </node>
 
             </children>

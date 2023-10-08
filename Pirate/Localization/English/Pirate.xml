@@ -13,4 +13,11 @@
 	<content contentuid="h78cc920agaf1eg42b9gbffegd76ea0593fc8" version="1">Wasteland Wanderer: Sea</content>
 	<content contentuid="h1e2c416cg02f8g4235g8af0g4988ebc89759" version="1">You have spent endless days surviving in the sea, you gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Survival"&gt;Survival&lt;/LSTag&gt; and &lt;LSTag Tooltip="Deception"&gt;Deception&lt;/LSTag&gt;.</content>
 
+	<content contentuid="h333c920agaf1eg42b9gbffegd76ea0593fc8" version="1">Yo Ho Ho And a Bottle of Rum</content>
+	<content contentuid="h444c416cg02f8g4235g8af0g4988ebc89759" version="1">You're at your best when drunk.  Your attacks are faster and you can shoot fire from your mouth as a free action.  You also get no &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on Dexterity and Charisma &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
+
+	<content contentuid="h666c416cg02f8g4235g8af0g4988ebc89759" version="1">Summon Treasure Chest</content>
+	<content contentuid="h777c416cg02f8g4235g8af0g4988ebc89759" version="1">The real treasure.</content>
+	<content contentuid="h778c416cg02f8g4235g8af0g4988ebc89759" version="1">Summon your treasure chest..</content>
+
 </contentList>

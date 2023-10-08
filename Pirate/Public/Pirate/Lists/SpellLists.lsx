@@ -12,6 +12,12 @@
                 </node>
 
                 <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Pirate Treasure Chest"/>
+                    <attribute id="Spells" type="LSString" value="Shout_PiratesFeast"/>
+                    <attribute id="UUID" type="guid" value="2fff6643-4ad9-4eca-a851-9cd37fba9516"/>
+                </node>
+
+                <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Pirate Flourish spells"/>
                     <attribute id="Spells" type="LSString" value="Zone_BladeFlourish_Slashing_Pirate;Projectile_BladeFlourish_Slashing_Pirate"/>
                     <attribute id="UUID" type="guid" value="26c253a1-bd7c-4bb0-b166-fff9f2b250b1"/>
@@ -42,8 +48,20 @@
                 </node>
 
                 <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Pirate Spells lv3"/>
+                    <attribute id="Spells" type="LSString" value="Target_AnimateDead;Zone_Fear;Target_FeignDeath;Target_SpeakWithDead;Zone_ConjureBarrage;Target_HypnoticPattern;Zone_GustOfWind;Target_PhantasmalForce;Target_CloudOfDaggers;Target_Web;Target_Knock;Target_ArcaneLock;Target_StinkingCloud_LowerPirate;Shout_ExpeditiousRetreat;Target_Command_Container;Target_CompelledDuel;Target_DissonantWhispers;Target_FogCloud;Target_HuntersMark;Target_HideousLaughter;Target_CreateDestroyWater;Target_Grease;Target_FogCloud"/>
+                    <attribute id="UUID" type="guid" value="33455388-340a-45f3-a3d3-060147f2e58b"/>
+                </node>
+
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Pirate Spells lv4"/>
+                    <attribute id="Spells" type="LSString" value="Target_PhantasmalKiller;Target_StaggeringSmite;Target_AnimateDead;Zone_Fear;Target_FeignDeath;Target_SpeakWithDead;Zone_ConjureBarrage;Target_HypnoticPattern;Zone_GustOfWind;Target_PhantasmalForce;Target_CloudOfDaggers;Target_Web;Target_Knock;Target_ArcaneLock;Target_StinkingCloud_LowerPirate;Shout_ExpeditiousRetreat;Target_Command_Container;Target_CompelledDuel;Target_DissonantWhispers;Target_FogCloud;Target_HuntersMark;Target_HideousLaughter;Target_CreateDestroyWater;Target_Grease;Target_FogCloud"/>
+                    <attribute id="UUID" type="guid" value="44455388-340a-45f3-a3d3-060147f2e58b"/>
+                </node>
+
+                <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="All Pirate Spells"/>
-                    <attribute id="Spells" type="LSString" value="Zone_GustOfWind;Target_PhantasmalForce;Target_CloudOfDaggers;Target_Web;Target_Knock;Target_ArcaneLock;Target_StinkingCloud_LowerPirate;Shout_ExpeditiousRetreat;Target_Command_Container;Target_CompelledDuel;Target_DissonantWhispers;Target_FogCloud;Target_HuntersMark;Target_HideousLaughter;Target_CreateDestroyWater;Target_Grease;Target_FogCloud"/>
+                    <attribute id="Spells" type="LSString" value="Target_PhantasmalKiller;Target_StaggeringSmite;Target_AnimateDead;Zone_Fear;Target_FeignDeath;Target_SpeakWithDead;Zone_ConjureBarrage;Target_HypnoticPattern;Zone_GustOfWind;Target_PhantasmalForce;Target_CloudOfDaggers;Target_Web;Target_Knock;Target_ArcaneLock;Target_StinkingCloud_LowerPirate;Shout_ExpeditiousRetreat;Target_Command_Container;Target_CompelledDuel;Target_DissonantWhispers;Target_FogCloud;Target_HuntersMark;Target_HideousLaughter;Target_CreateDestroyWater;Target_Grease;Target_FogCloud"/>
                     <attribute id="UUID" type="guid" value="18993096-85e5-4670-b4f7-94f63b9b3605"/>
                 </node>
 

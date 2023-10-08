@@ -1,0 +1,13 @@
+new treasuretable "PiratesFeast_Mod"
+new subtable "1,1"
+object category "I_CONS_DRINK_Wine_Bottle_Wicker",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CONS_DRINK_Rum",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CONS_DRINK_Rum_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CONS_DRINK_Wine",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CONS_DRINK_Wine_Bottle",4,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CONS_DRINK_Beer",1,0,0,0,0,0,0,0
