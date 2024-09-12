@@ -68,7 +68,6 @@
                     <attribute id="Level" type="uint8" value="7"/>
                     <attribute id="Name" type="LSString" value="Pirate"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel2;ImprovedCritical"/>
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);ActionResource(SpellSlot,2,2)"/>
                     <attribute id="Selectors" type="LSString" value="SelectSpells(b9455388-340a-45f3-a3d3-060147f2e58b,2,0,,,,AlwaysPrepared);AddSpells(36c253a1-bd7c-4bb0-b166-fff9f2b250b1)"/>
@@ -79,7 +78,6 @@
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="Pirate"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="PassivesAdded" type="LSString" value="FastHands"/>
                     <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Selectors" type="LSString" value="SelectSpells(b9455388-340a-45f3-a3d3-060147f2e58b,1,0,,,,AlwaysPrepared)"/>
@@ -90,7 +88,6 @@
                     <attribute id="Level" type="uint8" value="10"/>
                     <attribute id="Name" type="LSString" value="Pirate"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="PassivesAdded" type="LSString" value="NaturalExplorer_PirateSea"/>
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1);ProficiencyBonus(Skill,Survival);ProficiencyBonus(Skill,Deception)"/>
                     <attribute id="Selectors" type="LSString" value="SelectSpells(b9455388-340a-45f3-a3d3-060147f2e58b,1,0,,,,AlwaysPrepared)"/>
